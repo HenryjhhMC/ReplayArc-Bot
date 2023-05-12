@@ -1,0 +1,30 @@
+{
+	"name": "Replayarcstudios-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HenryjhhMC/ReplayArc-Bot.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/HenryjhhMC/ReplayArc-Bot/issues"
+	},
+	"homepage": "https://github.com/HenryjhhMC/ReplayArc-Bot#readme",
+	"dependencies": {
+		"@discordjs/rest": "^0.5.0",
+		"discord-api-types": "^0.34.0",
+		"discord-html-transcripts": "^2.5.8",
+		"discord.js": "^13.8.0",
+		"dotenv-flow": "^3.2.0",
+		"fs": "^0.0.1-security",
+		"mysql2": "^2.3.3",
+		"uuid": "^8.3.2"
+	}
+}
